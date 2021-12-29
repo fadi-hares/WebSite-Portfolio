@@ -1,0 +1,118 @@
+body {
+    color: #00233F;
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+h4 {
+    font-weight: 300;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
+
+h6 {
+    padding: 0 0 20px;
+}
+
+hr {
+    border-top: 20px dotted rgb(145, 145, 145);
+    width: 10%;
+    margin: auto; 
+}
+
+.fab {
+    color: rgb(90, 90, 90);
+    padding: 0 20px;
+}
+
+.btn {
+    height: 50px;
+    width: 200;
+    font-size: 25px;
+    margin: 0 10px;
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+}
+
+.navbar {
+    background-color: #00233F;
+}
+
+.nav-link {
+    color: white;
+    font-weight: 300;
+}
+
+.navelemnts{
+    align-items: center;
+    padding: 0 10px;
+}
+
+.about{
+    margin: 7rem;
+    margin-bottom: 0;
+}
+
+.info {
+    background-color: #00233F;
+}
+
+
+.my_info {
+    padding: 100px 0;
+    text-align: center;
+    color: white;
+}
+
+.sm-icons {
+    margin: 100px 30% 50px;
+}
+
+#cm {
+    font-size: 70px;
+    font-weight: 700;
+    padding: 100px 0 0;
+}
+
+#skill-grid {
+    color: white;
+    padding: 100px;
+}
+
+#vector {
+    height: 50%;
+    width: 50%;
+    margin: 0 25%;
+}
+
+#vector2 {
+    height: 35%;
+    width: 35%;
+    margin: 0 35%;
+}
+
+#h4-info {
+    padding: 0 25%;
+}
+
+.fab:hover {
+    color: #00233F;
+}
